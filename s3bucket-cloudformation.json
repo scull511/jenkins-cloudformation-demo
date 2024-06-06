@@ -4,7 +4,7 @@
     "S3Bucket": {
       "Type": "AWS::S3::Bucket",
       "Properties": {
-        "BucketName" : "triggered-test-bucket-124816"
+        "BucketName" : "triggered-test-bucket-12481632"
       }
     }
   },
