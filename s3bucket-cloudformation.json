@@ -6,7 +6,7 @@
     }
   },
   "Properties": {
-    "BucketName": "test-s3bucket-24816"
+    "BucketName": "test-s3bucket-124816"
   },
 
   "Outputs": {
