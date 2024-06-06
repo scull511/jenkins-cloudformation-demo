@@ -2,8 +2,7 @@
   "AWSTemplateFormatVersion": "2010-09-09",
   "Resources": {
     "S3Bucket": {
-      "Type": "AWS::S3::Bucket",
-      "BucketName": "test-s3bucket-124816"
+      "Type": "AWS::S3::Bucket"
     }
   },
 
