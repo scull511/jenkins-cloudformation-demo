@@ -5,6 +5,10 @@
       "Type": "AWS::S3::Bucket"
     }
   },
+  "Properties": {
+    "BucketName": "test-s3bucket-24816"
+  },
+
   "Outputs": {
     "BucketName": {
       "Value": {
